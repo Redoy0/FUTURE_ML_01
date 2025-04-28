@@ -37,9 +37,11 @@ Sales data from a retail business containing transaction information such as ord
 - Projected growth trend: 20.62% over next quarter
 
 ### Visualizations
-![Sales Forecast](visualizations/sales_forecast.png)
-![Seasonal Decomposition](visualizations/seasonal_decomposition.png)
-![Product Performance](visualizations/product_performance.png)
+![Sales Forecast](visualizations/sales-forecast_with_prediction.png)
+![Accuracy Assesment](visualizations/accuracy_assessment.png)
+![Monthly Sales](visualizations/monthly_sales.png)
+![Component](visualizations/component.png)
+![Summary](visualizations/summary.png)
 
 ### Future Improvements
 - Incorporate external factors like promotions and holidays
